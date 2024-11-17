@@ -19,13 +19,13 @@
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/onboarding.png">  
+<img src="assets/images/onboarding.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/sign up.png">  
+<img src="assets/images/sign up.jpg">  
 
 # Sign In Screen
-<img src="assets/images/login.png">  
+<img src="assets/images/login.jpg">  
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
