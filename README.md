@@ -28,4 +28,7 @@
 <img src="assets/images/login.jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/images/home.png"> 
+<img src="assets/images/search.png">
+<img src="assets/images/notification.png">
+<img src="assets/images/profile(2).png">
