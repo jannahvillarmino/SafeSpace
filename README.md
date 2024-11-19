@@ -31,4 +31,4 @@
 <img src="assets/images/home.jpg"> 
 <img src="assets/images/search.jpg">
 <img src="assets/images/notification.jpg">
-<img src="assets/images/profile(2).jpg">
+<img src="assets/images/profile.jpg">
